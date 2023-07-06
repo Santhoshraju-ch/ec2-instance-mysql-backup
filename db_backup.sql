@@ -34,7 +34,7 @@ CREATE TABLE `table1` (
 
 LOCK TABLES `table1` WRITE;
 /*!40000 ALTER TABLE `table1` DISABLE KEYS */;
-INSERT INTO `table1` VALUES (1,'Virat'),(2,'Sachin'),(3,'Dhoni'),(4,'ABD'),(5,'santhosh'),(6,'ravi');
+INSERT INTO `table1` VALUES (1,'Virat'),(2,'Sachin'),(3,'Dhoni'),(4,'ABD'),(5,'santhosh'),(6,'ravi'),(7,'Nithya');
 
 /*!40000 ALTER TABLE `table1` ENABLE KEYS */;
 UNLOCK TABLES;
