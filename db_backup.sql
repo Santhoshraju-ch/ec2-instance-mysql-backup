@@ -34,7 +34,8 @@ CREATE TABLE `table1` (
 
 LOCK TABLES `table1` WRITE;
 /*!40000 ALTER TABLE `table1` DISABLE KEYS */;
-INSERT INTO `table1` VALUES (1,'Virat'),(2,'Sachin'),(3,'Dhoni'),(4,'ABD');
+INSERT INTO `table1` VALUES (1,'Virat'),(2,'Sachin'),(3,'Dhoni'),(4,'ABD'),(5,'santhosh'),(6,'megha');
+
 /*!40000 ALTER TABLE `table1` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
